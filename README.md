@@ -1,5 +1,5 @@
 # LogoAdidas
 
-Logo Adidas with javascript
+Logo Adidas with Javascript(Canvas)
 
 ![](adidas.gif)
